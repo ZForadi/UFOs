@@ -57,7 +57,7 @@ In the image above, the table was filtered for the date 1/10/2010 and the city w
 
 State & Shape
 
-![state_shape(images/state_shape.png)
+![state_shape](images/state_shape.png)
 
 In the image above, the table was filtered for the state "ca" (California) and the shape of the UFO - "sphere". The table returned all matching results.
 
